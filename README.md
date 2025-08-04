@@ -35,25 +35,8 @@ openai
 
 langchain
 
-
-
 ---
-
-💬 Sample Prompts
-
-What is artificial intelligence?
-
-Who is Elon Musk?
-
-meaning of empathy
-
-Tell me a fun fact
-
-
-
----
-
-🙋‍♂️ Developed By
+Developed By:
 
 Kaif Ansari
 
